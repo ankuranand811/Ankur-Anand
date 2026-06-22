@@ -51,10 +51,10 @@ I'm an aspiring software developer dedicated to turning abstract ideas into clea
 I am always eager to collaborate on open-source projects, talk tech, or simply share learning resources. Feel free to reach out!
 
 <p align="left">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ankuranand811@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ankur-anand-13320a36b">
+  <a href="www.linkedin.com/in/ankur-anand-bb69a239a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
